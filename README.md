@@ -1,2 +1,2 @@
 # Search-Movies
-Movies app whixh will search thousands of movies.
+Movies app which will search thousands of movies.
