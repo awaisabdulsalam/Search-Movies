@@ -34,7 +34,6 @@ h4 {
 .movie {
   display: grid;
   width: 100%;
-  /* border: 2px solid black; */
   gap: 60px;
 }
 
@@ -67,7 +66,6 @@ h4 {
 
 .movie_title {
   margin: 8px 0;
-  /* padding-right: 80px; */
   letter-spacing: 1px;
   color: rgba(255, 255, 255, 0.87);
 }
